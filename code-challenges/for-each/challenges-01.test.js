@@ -48,18 +48,18 @@ Then, write a function named removeElements that takes in an array and a callbac
 Return the modified array.
 ------------------------------------------------------------------------------------------------ */
 
-// const removeOne = (num, arr) => {
-//   if (num % 3 === 2){
-//     arr.pop();
-//   }
-// };
+const removeOne = (num, arr) => {
+  if (num % 3 === 2){
+    arr.pop();
+  }
+};
 
-// const removeElements = (arr, callback) => {
-//   for (var i in arr){
-//     callback(arr[i], arr);
-//   }
-//   return arr;
-// };
+const removeElements = (arr, callback) => {
+  for (var i in arr){
+    callback(arr[i], arr);
+  }
+  return arr;
+};
 
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 4
