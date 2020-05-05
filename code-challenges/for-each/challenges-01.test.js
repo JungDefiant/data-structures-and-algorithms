@@ -78,14 +78,14 @@ This function should use forEach again, but rather than taking in a callback as 
 This anonymous function should accept up to three arguments: the element, the index, and the array.
 ------------------------------------------------------------------------------------------------ */
 
-// const removeWithAnon = (arr) => {
-//   arr.forEach((num, index, arr) => {
-//     if (num % 3 === 2){
-//       arr.pop();
-//     }
-//   });
-//   return arr;
-// };
+const removeWithAnon = (arr) => {
+  arr.forEach((num, index, arr) => {
+    if (num % 3 === 2){
+      arr.pop();
+    }
+  });
+  return arr;
+};
 
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 6
