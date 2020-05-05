@@ -66,10 +66,10 @@ CHALLENGE 4
 Write a function named removeWithForEach that produces the same output as challenge 3, but uses forEach.
 ------------------------------------------------------------------------------------------------ */
 
-// const removeWithForEach = (arr, callback) => {
-//   arr.forEach((currVal) => callback(currVal,arr));
-//   return arr;
-// };
+const removeWithForEach = (arr, callback) => {
+  arr.forEach((currVal) => callback(currVal,arr));
+  return arr;
+};
 
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 5
