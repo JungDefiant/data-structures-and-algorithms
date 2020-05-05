@@ -122,21 +122,21 @@ Iterate over the array using forEach to determine the output based on several ru
 Return the resulting output array.
 ------------------------------------------------------------------------------------------------ */
 
-// const fizzbuzz = (arr) => {
-//   const outputArray = [];
-//   arr.forEach((currValue) => {
-//     if (currValue % 3 === 0 && currValue % 5 === 0) {
-//       outputArray.push('Fizz Buzz');
-//     }else if (currValue % 3 === 0){
-//       outputArray.push('Fizz');
-//     } else if (currValue % 5 === 0) {
-//       outputArray.push('Buzz');
-//     } else{
-//       outputArray.push(currValue);
-//     }
-//   });
-//   return outputArray;
-// };
+const fizzbuzz = (arr) => {
+  const outputArray = [];
+  arr.forEach((currValue) => {
+    if (currValue % 3 === 0 && currValue % 5 === 0) {
+      outputArray.push('Fizz Buzz');
+    }else if (currValue % 3 === 0){
+      outputArray.push('Fizz');
+    } else if (currValue % 5 === 0) {
+      outputArray.push('Buzz');
+    } else{
+      outputArray.push(currValue);
+    }
+  });
+  return outputArray;
+};
 
 /* ------------------------------------------------------------------------------------------------
 TESTS
