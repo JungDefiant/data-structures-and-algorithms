@@ -1,6 +1,9 @@
 /* eslint-disable no-undef */
 /* eslint-disable no-unused-vars */
 'use strict';
+// Coding Credits
+// Driver: Nicco Ryan
+// Navigators: David P., Bade Habib
 
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 1
