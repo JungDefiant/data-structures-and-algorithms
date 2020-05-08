@@ -36,6 +36,7 @@ let $ = createSnippetWithJQuery(`
 </main>
 `);
 
+// Worked with Melissa Galush
 const templateWithJQuery = () => {
   starWarsPeople.forEach((val) => {
     let template = $('#template').clone();
@@ -60,9 +61,12 @@ For example, if the input is 'Welcome', the output will be:
 ['Welcome', 'elcome', 'lcome', 'come', 'ome', 'me', 'e', ''].
 ------------------------------------------------------------------------------------------------ */
 
+// Worked with Melissa Galush
 const howMuchPencil = (str) => {
   let result = [];
-  // Solution code here...
+  for(var i = 0; i < str.length+1; i++) {
+    result.push(str.slice(i, str.length));
+  }
   return result;
 };
 
@@ -74,8 +78,13 @@ Write a function name wordsToCharList that, given a string as input, returns a n
 For example, wordsToCharList('gregor') returns ['g','r','e','g','o','r'].
 ------------------------------------------------------------------------------------------------ */
 
+// Worked with Melissa Galush
 const wordsToCharList = (arr) => {
-  // Solution code here...
+  let result = [];
+  for(var i = 0; i < arr.length; i++) {
+    result.push(arr.slice(i, i + 1));
+  }
+  return result;
 };
 
 
@@ -119,10 +128,13 @@ const gruffaloCrumble = {
   ]
 };
 
-
+// Worked with Melissa Galush
 const listFoods = (recipe) => {
   let result = [];
-  // Solution code here...
+  gruffaloCrumble.ingredients.forEach((val) => {
+    result.push(val.slice(val.indexOf(' ', 4) + 1, val.length));
+  })
+  console.log(result);
   return result;
 };
 
