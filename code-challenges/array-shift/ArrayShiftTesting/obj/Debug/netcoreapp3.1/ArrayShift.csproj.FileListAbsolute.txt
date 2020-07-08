@@ -1,8 +1,0 @@
-C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\array-shift\ArrayShiftTesting\bin\Debug\netcoreapp3.1\ArrayShift.deps.json
-C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\array-shift\ArrayShiftTesting\bin\Debug\netcoreapp3.1\ArrayShift.dll
-C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\array-shift\ArrayShiftTesting\bin\Debug\netcoreapp3.1\ArrayShift.pdb
-C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\array-shift\ArrayShiftTesting\obj\Debug\netcoreapp3.1\ArrayShift.AssemblyInfoInputs.cache
-C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\array-shift\ArrayShiftTesting\obj\Debug\netcoreapp3.1\ArrayShift.AssemblyInfo.cs
-C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\array-shift\ArrayShiftTesting\obj\Debug\netcoreapp3.1\ArrayShift.csproj.CoreCompileInputs.cache
-C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\array-shift\ArrayShiftTesting\obj\Debug\netcoreapp3.1\ArrayShift.dll
-C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\array-shift\ArrayShiftTesting\obj\Debug\netcoreapp3.1\ArrayShift.pdb
