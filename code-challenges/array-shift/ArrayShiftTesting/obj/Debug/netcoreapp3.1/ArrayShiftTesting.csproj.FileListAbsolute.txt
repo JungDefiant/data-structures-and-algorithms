@@ -1,0 +1,4 @@
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\array-shift\ArrayShiftTesting\obj\Debug\netcoreapp3.1\ArrayShiftTesting.csprojAssemblyReference.cache
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\array-shift\ArrayShiftTesting\obj\Debug\netcoreapp3.1\ArrayShiftTesting.AssemblyInfoInputs.cache
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\array-shift\ArrayShiftTesting\obj\Debug\netcoreapp3.1\ArrayShiftTesting.AssemblyInfo.cs
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\array-shift\ArrayShiftTesting\obj\Debug\netcoreapp3.1\ArrayShiftTesting.csproj.CoreCompileInputs.cache
