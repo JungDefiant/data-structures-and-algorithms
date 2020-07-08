@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayShift", "ArrayShift.csproj", "{5941C581-5791-4F97-8022-D435BE41F70F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch.csproj", "{799F9850-B5D8-47A3-9FF0-9CBB6ED38161}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5941C581-5791-4F97-8022-D435BE41F70F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5941C581-5791-4F97-8022-D435BE41F70F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5941C581-5791-4F97-8022-D435BE41F70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5941C581-5791-4F97-8022-D435BE41F70F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{799F9850-B5D8-47A3-9FF0-9CBB6ED38161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799F9850-B5D8-47A3-9FF0-9CBB6ED38161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799F9850-B5D8-47A3-9FF0-9CBB6ED38161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799F9850-B5D8-47A3-9FF0-9CBB6ED38161}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {666CBB06-7F80-4ADA-B8D8-2CE5A682EF2D}
+		SolutionGuid = {41E04DA1-F808-41B2-A63E-A9097A46FECE}
 	EndGlobalSection
 EndGlobal
