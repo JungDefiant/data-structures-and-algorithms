@@ -3492,11 +3492,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bjhab\\codefellows\\401\\data-structures-and-algorithms\\code-challenges\\linked-list\\LLLibrary\\LinkedListTests\\LinkedListTests.csproj",
+      "projectUniqueName": "C:\\Users\\bjhab\\codefellows\\401\\data-structures-and-algorithms\\data-structures\\linked-list\\LLLibrary\\LinkedListTests\\LinkedListTests.csproj",
       "projectName": "LinkedListTests",
-      "projectPath": "C:\\Users\\bjhab\\codefellows\\401\\data-structures-and-algorithms\\code-challenges\\linked-list\\LLLibrary\\LinkedListTests\\LinkedListTests.csproj",
+      "projectPath": "C:\\Users\\bjhab\\codefellows\\401\\data-structures-and-algorithms\\data-structures\\linked-list\\LLLibrary\\LinkedListTests\\LinkedListTests.csproj",
       "packagesPath": "C:\\Users\\bjhab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bjhab\\codefellows\\401\\data-structures-and-algorithms\\code-challenges\\linked-list\\LLLibrary\\LinkedListTests\\obj\\",
+      "outputPath": "C:\\Users\\bjhab\\codefellows\\401\\data-structures-and-algorithms\\data-structures\\linked-list\\LLLibrary\\LinkedListTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3515,8 +3515,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\bjhab\\codefellows\\401\\data-structures-and-algorithms\\code-challenges\\linked-list\\LLLibrary\\LLLibrary\\LLLibrary.csproj": {
-              "projectPath": "C:\\Users\\bjhab\\codefellows\\401\\data-structures-and-algorithms\\code-challenges\\linked-list\\LLLibrary\\LLLibrary\\LLLibrary.csproj"
+            "C:\\Users\\bjhab\\codefellows\\401\\data-structures-and-algorithms\\data-structures\\linked-list\\LLLibrary\\LLLibrary\\LLLibrary.csproj": {
+              "projectPath": "C:\\Users\\bjhab\\codefellows\\401\\data-structures-and-algorithms\\data-structures\\linked-list\\LLLibrary\\LLLibrary\\LLLibrary.csproj"
             }
           }
         }

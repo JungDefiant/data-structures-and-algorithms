@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bjhab\\codefellows\\401\\data-structures-and-algorithms\\code-challenges\\linked-list\\LLLibrary\\LLLibrary\\LLLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\bjhab\\codefellows\\401\\data-structures-and-algorithms\\data-structures\\linked-list\\LLLibrary\\LLLibrary\\LLLibrary.csproj",
       "projectName": "LLLibrary",
-      "projectPath": "C:\\Users\\bjhab\\codefellows\\401\\data-structures-and-algorithms\\code-challenges\\linked-list\\LLLibrary\\LLLibrary\\LLLibrary.csproj",
+      "projectPath": "C:\\Users\\bjhab\\codefellows\\401\\data-structures-and-algorithms\\data-structures\\linked-list\\LLLibrary\\LLLibrary\\LLLibrary.csproj",
       "packagesPath": "C:\\Users\\bjhab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bjhab\\codefellows\\401\\data-structures-and-algorithms\\code-challenges\\linked-list\\LLLibrary\\LLLibrary\\obj\\",
+      "outputPath": "C:\\Users\\bjhab\\codefellows\\401\\data-structures-and-algorithms\\data-structures\\linked-list\\LLLibrary\\LLLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

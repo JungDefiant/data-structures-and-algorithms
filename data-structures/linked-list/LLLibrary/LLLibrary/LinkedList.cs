@@ -55,6 +55,23 @@ namespace LLLibrary
         }
 
         /// <summary>
+        /// Takes an integer, creates a new node with that value, then appends the node to the end of the linked list
+        /// </summary>
+        /// <param name="value"></param>
+        public void Append(int value)
+        {
+            Node node = new Node(value);
+            Current = Head;
+
+            while (Current.Next != null)
+            {
+                Current = Current.Next;
+            }
+
+            Current.Next = node;
+        }
+
+        /// <summary>
         /// Overriding current behavior of tostring method to output all values in the linked list as a string 
         /// </summary>
         /// <returns>a string containing all the values of the linked list</returns>

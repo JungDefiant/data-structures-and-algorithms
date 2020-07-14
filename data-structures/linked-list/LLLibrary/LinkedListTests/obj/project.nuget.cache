@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3vfNG3BTzkwBe1YOzglKhjCy2N4NBqt+oip2DlQHqQnOMXqOaTl0SnubMihXVEzIbQctSczzCyshg4gQQsigMQ==",
+  "dgSpecHash": "5UiARraAETxUEx0D/6u0B7Fj+h+aVwXhcU63W1AkN8e28Qqt1paW0B1oKF8RuB81tuxgIx+gTavYky4+eVZYJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bjhab\\codefellows\\401\\data-structures-and-algorithms\\code-challenges\\linked-list\\LLLibrary\\LinkedListTests\\LinkedListTests.csproj",
+  "projectFilePath": "C:\\Users\\bjhab\\codefellows\\401\\data-structures-and-algorithms\\data-structures\\linked-list\\LLLibrary\\LinkedListTests\\LinkedListTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bjhab\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\bjhab\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
