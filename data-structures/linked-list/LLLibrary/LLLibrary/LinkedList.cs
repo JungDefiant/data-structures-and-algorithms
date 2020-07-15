@@ -72,6 +72,28 @@ namespace LLLibrary
         }
 
         /// <summary>
+        /// Returns the value of the node that is 'k' away from the end of the linked list
+        /// </summary>
+        /// <param name="k">number of steps from end of linked list to find node</param>
+        /// <returns>value of node that is 'k' away from end of linked list</returns>
+        public int KthFromTheEnd(int k)
+        {
+            List<int> values = new List<int>();
+            values.Add(Head.Value);
+
+            Current = Head;
+            
+            while(Current.Next != null)
+            {
+                Current = Current.Next;
+                values.Add(Current.Value);
+            }
+
+            if (values.Count - (k + 1) < 0) throw new Exception();
+            else return values[values.Count - (k + 1)];
+        }
+
+        /// <summary>
         /// Overriding current behavior of tostring method to output all values in the linked list as a string 
         /// </summary>
         /// <returns>a string containing all the values of the linked list</returns>
