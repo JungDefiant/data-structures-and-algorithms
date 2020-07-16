@@ -66,6 +66,7 @@ namespace LLLibrary
             while (Current.Next != null)
             {
                 Current = Current.Next;
+                if (Current == null) break;
             }
 
             Current.Next = node;

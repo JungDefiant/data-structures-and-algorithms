@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LLLibrary</id>
+    <version>1.0.0</version>
+    <authors>LLLibrary</authors>
+    <owners>LLLibrary</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\linked-list\LLLibrary\LLLibrary\bin\Debug\netcoreapp3.1\LLLibrary.dll" target="lib\netcoreapp3.1\LLLibrary.dll" />
+  </files>
+</package>

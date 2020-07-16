@@ -1,0 +1,9 @@
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\linked-list\LLLibrary\LLLibrary\bin\Debug\netcoreapp3.1\LLLibrary.deps.json
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\linked-list\LLLibrary\LLLibrary\bin\Debug\netcoreapp3.1\LLLibrary.dll
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\linked-list\LLLibrary\LLLibrary\bin\Debug\netcoreapp3.1\LLLibrary.pdb
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\linked-list\LLLibrary\LLLibrary\obj\Debug\netcoreapp3.1\LLLibrary.csprojAssemblyReference.cache
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\linked-list\LLLibrary\LLLibrary\obj\Debug\netcoreapp3.1\LLLibrary.AssemblyInfoInputs.cache
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\linked-list\LLLibrary\LLLibrary\obj\Debug\netcoreapp3.1\LLLibrary.AssemblyInfo.cs
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\linked-list\LLLibrary\LLLibrary\obj\Debug\netcoreapp3.1\LLLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\linked-list\LLLibrary\LLLibrary\obj\Debug\netcoreapp3.1\LLLibrary.dll
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\linked-list\LLLibrary\LLLibrary\obj\Debug\netcoreapp3.1\LLLibrary.pdb

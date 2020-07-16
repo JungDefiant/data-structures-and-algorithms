@@ -1,0 +1,16 @@
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\ll-ziplists\bin\Debug\netcoreapp3.1\LLZip.exe
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\ll-ziplists\bin\Debug\netcoreapp3.1\LLZip.deps.json
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\ll-ziplists\bin\Debug\netcoreapp3.1\LLZip.runtimeconfig.json
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\ll-ziplists\bin\Debug\netcoreapp3.1\LLZip.runtimeconfig.dev.json
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\ll-ziplists\bin\Debug\netcoreapp3.1\LLZip.dll
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\ll-ziplists\bin\Debug\netcoreapp3.1\LLZip.pdb
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\ll-ziplists\bin\Debug\netcoreapp3.1\LLLibrary.dll
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\ll-ziplists\bin\Debug\netcoreapp3.1\LLLibrary.pdb
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\ll-ziplists\obj\Debug\netcoreapp3.1\LLZip.csprojAssemblyReference.cache
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\ll-ziplists\obj\Debug\netcoreapp3.1\LLZip.AssemblyInfoInputs.cache
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\ll-ziplists\obj\Debug\netcoreapp3.1\LLZip.AssemblyInfo.cs
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\ll-ziplists\obj\Debug\netcoreapp3.1\LLZip.csproj.CoreCompileInputs.cache
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\ll-ziplists\obj\Debug\netcoreapp3.1\LLZip.csproj.CopyComplete
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\ll-ziplists\obj\Debug\netcoreapp3.1\LLZip.dll
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\ll-ziplists\obj\Debug\netcoreapp3.1\LLZip.pdb
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\ll-ziplists\obj\Debug\netcoreapp3.1\LLZip.genruntimeconfig.cache
