@@ -39,5 +39,10 @@ namespace StacksAndQueues.Classes
                 return 0;
             }
         }
+
+        public bool IsEmpty()
+        {
+            return Top != null;
+        }
     }
 }
