@@ -1,0 +1,13 @@
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\stacks-and-queues\StacksAndQueues\bin\Debug\netcoreapp3.1\StacksAndQueues.exe
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\stacks-and-queues\StacksAndQueues\bin\Debug\netcoreapp3.1\StacksAndQueues.deps.json
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\stacks-and-queues\StacksAndQueues\bin\Debug\netcoreapp3.1\StacksAndQueues.runtimeconfig.json
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\stacks-and-queues\StacksAndQueues\bin\Debug\netcoreapp3.1\StacksAndQueues.runtimeconfig.dev.json
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\stacks-and-queues\StacksAndQueues\bin\Debug\netcoreapp3.1\StacksAndQueues.dll
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\stacks-and-queues\StacksAndQueues\bin\Debug\netcoreapp3.1\StacksAndQueues.pdb
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\stacks-and-queues\StacksAndQueues\obj\Debug\netcoreapp3.1\StacksAndQueues.csprojAssemblyReference.cache
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\stacks-and-queues\StacksAndQueues\obj\Debug\netcoreapp3.1\StacksAndQueues.AssemblyInfoInputs.cache
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\stacks-and-queues\StacksAndQueues\obj\Debug\netcoreapp3.1\StacksAndQueues.AssemblyInfo.cs
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\stacks-and-queues\StacksAndQueues\obj\Debug\netcoreapp3.1\StacksAndQueues.csproj.CoreCompileInputs.cache
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\stacks-and-queues\StacksAndQueues\obj\Debug\netcoreapp3.1\StacksAndQueues.dll
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\stacks-and-queues\StacksAndQueues\obj\Debug\netcoreapp3.1\StacksAndQueues.pdb
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\stacks-and-queues\StacksAndQueues\obj\Debug\netcoreapp3.1\StacksAndQueues.genruntimeconfig.cache
