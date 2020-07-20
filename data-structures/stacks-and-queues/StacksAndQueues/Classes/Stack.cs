@@ -4,16 +4,24 @@ using System.Text;
 
 namespace StacksAndQueues.Classes
 {
-    internal class Stack
+    public class Stack
     {
         public Node Top { get; set; }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="value"></param>
         public void Push(int value)
         {
             Node node = new Node(value, Top);
             Top = node;
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         public Node Pop()
         {
             try
@@ -24,10 +32,14 @@ namespace StacksAndQueues.Classes
             }
             catch(NullReferenceException)
             {
-                return null;
+                throw new NullReferenceException();
             }
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         public int Peek()
         {
             try
@@ -36,13 +48,17 @@ namespace StacksAndQueues.Classes
             }
             catch(NullReferenceException)
             {
-                return 0;
+                throw new NullReferenceException();
             }
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         public bool IsEmpty()
         {
-            return Top != null;
+            return Top == null;
         }
     }
 }
