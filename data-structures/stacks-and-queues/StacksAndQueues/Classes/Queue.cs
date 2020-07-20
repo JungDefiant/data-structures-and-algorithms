@@ -13,7 +13,8 @@ namespace StacksAndQueues.Classes
         public Node Rear { get => rear; set => rear = value; }
 
         /// <summary>
-        /// 
+        /// Adds node with given value to the Rear of the Queue. If Queue is empty, both 
+        /// the Front and Rear are assigned to the new node.
         /// </summary>
         /// <param name="value"></param>
         public void Enqueue(int value)
@@ -33,7 +34,7 @@ namespace StacksAndQueues.Classes
         }
 
         /// <summary>
-        /// 
+        /// Removes and returns node from the Front of the Queue
         /// </summary>
         /// <returns></returns>
         public Node Dequeue()
@@ -51,7 +52,7 @@ namespace StacksAndQueues.Classes
         }
 
         /// <summary>
-        /// 
+        /// Peeks into and returns the Front of the Queue
         /// </summary>
         /// <returns></returns>
         public Node Peek()
@@ -67,7 +68,7 @@ namespace StacksAndQueues.Classes
         }
 
         /// <summary>
-        /// 
+        /// Checks if Queue is Empty
         /// </summary>
         /// <returns></returns>
         public bool IsEmpty()

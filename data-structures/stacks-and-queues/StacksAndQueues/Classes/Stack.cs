@@ -9,7 +9,7 @@ namespace StacksAndQueues.Classes
         public Node Top { get; set; }
 
         /// <summary>
-        /// 
+        /// Pushes a new node with the given value to the Top of the Stack
         /// </summary>
         /// <param name="value"></param>
         public void Push(int value)
@@ -19,7 +19,7 @@ namespace StacksAndQueues.Classes
         }
 
         /// <summary>
-        /// 
+        /// Removes the Top node from the Stack and returns it
         /// </summary>
         /// <returns></returns>
         public Node Pop()
@@ -37,7 +37,7 @@ namespace StacksAndQueues.Classes
         }
 
         /// <summary>
-        /// 
+        /// Peeks into and returns the Top of the Stack
         /// </summary>
         /// <returns></returns>
         public int Peek()
@@ -53,7 +53,7 @@ namespace StacksAndQueues.Classes
         }
 
         /// <summary>
-        /// 
+        /// Checks if Stack is Empty
         /// </summary>
         /// <returns></returns>
         public bool IsEmpty()

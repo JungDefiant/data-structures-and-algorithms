@@ -6,23 +6,6 @@ namespace UnitTesting
 {
     public class UnitTest
     {
-        /*
-            Can successfully push onto a stack
-            Can successfully push multiple values onto a stack
-            Can successfully pop off the stack
-            Can successfully empty a stack after multiple pops
-            Can successfully peek the next item on the stack
-            Can successfully instantiate an empty stack
-            Calling pop or peek on empty stack raises exception
-            Can successfully enqueue into a queue
-            Can successfully enqueue multiple values into a queue
-            Can successfully dequeue out of a queue the expected value
-            Can successfully peek into a queue, seeing the expected value
-            Can successfully empty a queue after multiple dequeues
-            Can successfully instantiate an empty queue
-            Calling dequeue or peek on empty queue raises exception
-         */
-
         /// <summary>
         /// Checks whether a Stack pushes a new node successfully
         /// </summary>
@@ -91,7 +74,7 @@ namespace UnitTesting
         }
 
         /// <summary>
-        /// 
+        /// Checks whether Peek() successfully returns from Stack
         /// </summary>
         [Fact]
         public void CheckPeekStack()
@@ -104,7 +87,7 @@ namespace UnitTesting
         }
 
         /// <summary>
-        /// 
+        /// Checks whether an empty stack is successfully instantiated
         /// </summary>
         [Fact]
         public void CheckCreateEmptyStack()
@@ -115,7 +98,7 @@ namespace UnitTesting
         }
 
         /// <summary>
-        /// 
+        /// Checks whether a Null Exception is thrown on Pop of empty Stack
         /// </summary>
         [Fact]
         public void CheckThrowNullExceptionOnPop()
@@ -126,7 +109,7 @@ namespace UnitTesting
         }
 
         /// <summary>
-        /// 
+        /// Check if Queue successfully calls Enqueue
         /// </summary>
         [Fact]
         public void CheckSuccessfulEnqueue()
@@ -139,7 +122,7 @@ namespace UnitTesting
         }
 
         /// <summary>
-        /// 
+        /// Checks if multiple Enqueues are successful on Queue
         /// </summary>
         [Fact]
         public void CheckMultipleSuccessfulEnqueues()
@@ -156,7 +139,7 @@ namespace UnitTesting
         }
 
         /// <summary>
-        /// 
+        /// Checks if Queue successfully Dequeues
         /// </summary>
         [Fact]
         public void CheckSuccessfulDequeue()
@@ -174,7 +157,7 @@ namespace UnitTesting
         }
 
         /// <summary>
-        /// 
+        /// Checks if Peek successfully returns from Queue
         /// </summary>
         [Fact]
         public void CheckPeekIntoQueue()
@@ -190,7 +173,7 @@ namespace UnitTesting
         }
 
         /// <summary>
-        /// 
+        /// Checks if Queue is empty after several Enqueue and Dequeue calls
         /// </summary>
         [Fact]
         public void CheckEmptyQueue()
@@ -210,7 +193,7 @@ namespace UnitTesting
         }
 
         /// <summary>
-        /// 
+        /// Checks if empty Queue is created successfully
         /// </summary>
         [Fact]
         public void CheckCreateEmptyQueue()
@@ -221,7 +204,7 @@ namespace UnitTesting
         }
 
         /// <summary>
-        /// 
+        /// Checks if a Null Exception is thrown when Dequeue called on empty Queue
         /// </summary>
         [Fact]
         public void CheckThrowNullExceptionOnDequeue()
