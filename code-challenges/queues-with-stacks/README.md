@@ -17,8 +17,8 @@ Public methods include:
 * Dequeue() -> Moves all nodes to the other stack, gets the last node in the initial stack, then moves all the nodes back to the first stack
 
 ## Whiteboard
-Whiteboard for 'append' method
-![](../../assets/awww-board.png)
+Whiteboard for 'dequeue' method
+![](../../assets/aww-board.png)
 
 
 ## Link To Code
