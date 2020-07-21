@@ -1,0 +1,17 @@
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\queues-with-stacks\QueuesWithStacks\obj\Debug\netcoreapp3.1\QueuesWithStacks.csprojAssemblyReference.cache
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\queues-with-stacks\QueuesWithStacks\obj\Debug\netcoreapp3.1\QueuesWithStacks.AssemblyInfoInputs.cache
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\queues-with-stacks\QueuesWithStacks\obj\Debug\netcoreapp3.1\QueuesWithStacks.AssemblyInfo.cs
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\queues-with-stacks\QueuesWithStacks\obj\Debug\netcoreapp3.1\QueuesWithStacks.csproj.CoreCompileInputs.cache
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\queues-with-stacks\QueuesWithStacks\bin\Debug\netcoreapp3.1\StacksAndQueues.exe
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\queues-with-stacks\QueuesWithStacks\bin\Debug\netcoreapp3.1\QueuesWithStacks.exe
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\queues-with-stacks\QueuesWithStacks\bin\Debug\netcoreapp3.1\QueuesWithStacks.deps.json
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\queues-with-stacks\QueuesWithStacks\bin\Debug\netcoreapp3.1\QueuesWithStacks.runtimeconfig.json
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\queues-with-stacks\QueuesWithStacks\bin\Debug\netcoreapp3.1\QueuesWithStacks.runtimeconfig.dev.json
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\queues-with-stacks\QueuesWithStacks\bin\Debug\netcoreapp3.1\QueuesWithStacks.dll
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\queues-with-stacks\QueuesWithStacks\bin\Debug\netcoreapp3.1\QueuesWithStacks.pdb
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\queues-with-stacks\QueuesWithStacks\bin\Debug\netcoreapp3.1\StacksAndQueues.dll
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\queues-with-stacks\QueuesWithStacks\bin\Debug\netcoreapp3.1\StacksAndQueues.pdb
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\queues-with-stacks\QueuesWithStacks\obj\Debug\netcoreapp3.1\QueuesWithStacks.csproj.CopyComplete
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\queues-with-stacks\QueuesWithStacks\obj\Debug\netcoreapp3.1\QueuesWithStacks.dll
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\queues-with-stacks\QueuesWithStacks\obj\Debug\netcoreapp3.1\QueuesWithStacks.pdb
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\queues-with-stacks\QueuesWithStacks\obj\Debug\netcoreapp3.1\QueuesWithStacks.genruntimeconfig.cache
