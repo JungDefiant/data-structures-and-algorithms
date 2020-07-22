@@ -4,17 +4,17 @@ using System.Text;
 
 namespace StacksAndQueues.Classes
 {
-    public class Stack
+    public class Stack<T>
     {
-        public Node Top { get; set; }
+        public Node<T> Top { get; set; }
 
         /// <summary>
         /// Pushes a new node with the given value to the Top of the Stack
         /// </summary>
         /// <param name="value"></param>
-        public void Push(int value)
+        public void Push(T value)
         {
-            Node node = new Node(value, Top);
+            Node<T> node = new Node<T>(value, Top);
             Top = node;
         }
 
@@ -22,11 +22,11 @@ namespace StacksAndQueues.Classes
         /// Removes the Top node from the Stack and returns it
         /// </summary>
         /// <returns></returns>
-        public Node Pop()
+        public Node<T> Pop()
         {
             try
             {
-                Node temp = Top;
+                Node<T> temp = Top;
                 Top = Top.Next;
                 return temp;
             }
@@ -40,7 +40,7 @@ namespace StacksAndQueues.Classes
         /// Peeks into and returns the Top of the Stack
         /// </summary>
         /// <returns></returns>
-        public int Peek()
+        public T Peek()
         {
             try
             {

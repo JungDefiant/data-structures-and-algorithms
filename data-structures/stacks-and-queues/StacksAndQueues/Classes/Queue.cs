@@ -4,22 +4,22 @@ using System.Text;
 
 namespace StacksAndQueues.Classes
 {
-    public class Queue
+    public class Queue<T>
     {
-        private Node front = null;
-        public Node Front { get => front; set => front = value; }
+        private Node<T> front = null;
+        public Node<T> Front { get => front; set => front = value; }
 
-        private Node rear = null;
-        public Node Rear { get => rear; set => rear = value; }
+        private Node<T> rear = null;
+        public Node<T> Rear { get => rear; set => rear = value; }
 
         /// <summary>
         /// Adds node with given value to the Rear of the Queue. If Queue is empty, both 
         /// the Front and Rear are assigned to the new node.
         /// </summary>
         /// <param name="value"></param>
-        public void Enqueue(int value)
+        public void Enqueue(T value)
         {
-            Node node = new Node(value, null);
+            Node<T> node = new Node<T>(value, null);
             
             if (IsEmpty())
             {
@@ -37,11 +37,11 @@ namespace StacksAndQueues.Classes
         /// Removes and returns node from the Front of the Queue
         /// </summary>
         /// <returns></returns>
-        public Node Dequeue()
+        public Node<T> Dequeue()
         {
             try
             {
-                Node temp = front;
+                Node<T> temp = front;
                 front = front.Next;
                 return temp;
             }
@@ -55,7 +55,7 @@ namespace StacksAndQueues.Classes
         /// Peeks into and returns the Front of the Queue
         /// </summary>
         /// <returns></returns>
-        public Node Peek()
+        public Node<T> Peek()
         {
             try
             {
