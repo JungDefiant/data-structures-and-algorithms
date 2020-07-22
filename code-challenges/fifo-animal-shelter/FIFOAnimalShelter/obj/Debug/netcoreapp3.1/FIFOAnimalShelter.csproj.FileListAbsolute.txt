@@ -1,0 +1,12 @@
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\fifo-animal-shelter\FIFOAnimalShelter\obj\Debug\netcoreapp3.1\FIFOAnimalShelter.AssemblyInfoInputs.cache
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\fifo-animal-shelter\FIFOAnimalShelter\obj\Debug\netcoreapp3.1\FIFOAnimalShelter.AssemblyInfo.cs
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\fifo-animal-shelter\FIFOAnimalShelter\obj\Debug\netcoreapp3.1\FIFOAnimalShelter.csproj.CoreCompileInputs.cache
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\fifo-animal-shelter\FIFOAnimalShelter\bin\Debug\netcoreapp3.1\FIFOAnimalShelter.exe
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\fifo-animal-shelter\FIFOAnimalShelter\bin\Debug\netcoreapp3.1\FIFOAnimalShelter.deps.json
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\fifo-animal-shelter\FIFOAnimalShelter\bin\Debug\netcoreapp3.1\FIFOAnimalShelter.runtimeconfig.json
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\fifo-animal-shelter\FIFOAnimalShelter\bin\Debug\netcoreapp3.1\FIFOAnimalShelter.runtimeconfig.dev.json
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\fifo-animal-shelter\FIFOAnimalShelter\bin\Debug\netcoreapp3.1\FIFOAnimalShelter.dll
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\fifo-animal-shelter\FIFOAnimalShelter\bin\Debug\netcoreapp3.1\FIFOAnimalShelter.pdb
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\fifo-animal-shelter\FIFOAnimalShelter\obj\Debug\netcoreapp3.1\FIFOAnimalShelter.dll
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\fifo-animal-shelter\FIFOAnimalShelter\obj\Debug\netcoreapp3.1\FIFOAnimalShelter.pdb
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\fifo-animal-shelter\FIFOAnimalShelter\obj\Debug\netcoreapp3.1\FIFOAnimalShelter.genruntimeconfig.cache
