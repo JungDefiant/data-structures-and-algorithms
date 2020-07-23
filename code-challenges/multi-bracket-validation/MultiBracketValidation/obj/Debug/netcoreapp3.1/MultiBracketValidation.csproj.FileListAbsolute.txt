@@ -1,0 +1,13 @@
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\multi-bracket-validation\MultiBracketValidation\bin\Debug\netcoreapp3.1\MultiBracketValidation.exe
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\multi-bracket-validation\MultiBracketValidation\bin\Debug\netcoreapp3.1\MultiBracketValidation.deps.json
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\multi-bracket-validation\MultiBracketValidation\bin\Debug\netcoreapp3.1\MultiBracketValidation.runtimeconfig.json
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\multi-bracket-validation\MultiBracketValidation\bin\Debug\netcoreapp3.1\MultiBracketValidation.runtimeconfig.dev.json
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\multi-bracket-validation\MultiBracketValidation\bin\Debug\netcoreapp3.1\MultiBracketValidation.dll
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\multi-bracket-validation\MultiBracketValidation\bin\Debug\netcoreapp3.1\MultiBracketValidation.pdb
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\multi-bracket-validation\MultiBracketValidation\obj\Debug\netcoreapp3.1\MultiBracketValidation.csprojAssemblyReference.cache
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\multi-bracket-validation\MultiBracketValidation\obj\Debug\netcoreapp3.1\MultiBracketValidation.AssemblyInfoInputs.cache
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\multi-bracket-validation\MultiBracketValidation\obj\Debug\netcoreapp3.1\MultiBracketValidation.AssemblyInfo.cs
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\multi-bracket-validation\MultiBracketValidation\obj\Debug\netcoreapp3.1\MultiBracketValidation.csproj.CoreCompileInputs.cache
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\multi-bracket-validation\MultiBracketValidation\obj\Debug\netcoreapp3.1\MultiBracketValidation.dll
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\multi-bracket-validation\MultiBracketValidation\obj\Debug\netcoreapp3.1\MultiBracketValidation.pdb
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\multi-bracket-validation\MultiBracketValidation\obj\Debug\netcoreapp3.1\MultiBracketValidation.genruntimeconfig.cache
