@@ -1,6 +1,8 @@
 # Multi-Bracket Validation
 This program validates incoming strings with multiple brackets
 
+- **Collaborators:** Nicco Ryan, Rob Carter
+
 ## Challenge
 This challenge is to create a function that validates whether a string with brackets has 'complete sets'
 
