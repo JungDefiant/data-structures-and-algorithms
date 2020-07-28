@@ -13,3 +13,5 @@ Challenge 401-11: [Queues With Stacks](https://github.com/JungDefiant/data-struc
 Challenge 401-12: [FIFO Animal Shelter](https://github.com/JungDefiant/data-structures-and-algorithms/tree/master/code-challenges/fifo-animal-shelter)
 
 Challenge 401-13: [Multi-Bracket Validation](https://github.com/JungDefiant/data-structures-and-algorithms/tree/master/code-challenges/multi-bracket-validation)
+
+Challenge 401-15: [Binary Trees](https://github.com/JungDefiant/data-structures-and-algorithms/tree/master/data-structures/tree)
