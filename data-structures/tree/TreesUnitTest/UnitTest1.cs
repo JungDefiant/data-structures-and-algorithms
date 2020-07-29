@@ -7,13 +7,9 @@ namespace TreesUnitTest
 {
     public class UnitTest1
     {
-        // Can successfully instantiate an empty tree
-        // Can successfully instantiate a tree with a single root node
-        // Can successfully add a left child and right child to a single root node
-        // Can successfully return a collection from a preorder traversal
-        // Can successfully return a collection from an inorder traversal
-        // Can successfully return a collection from a postorder traversal
-
+        /// <summary>
+        /// Checks whether an empty tree can be instantiated
+        /// </summary>
         [Fact]
         public void CheckEmptyTreeInstantiation()
         {
@@ -22,6 +18,9 @@ namespace TreesUnitTest
             Assert.Null(tree.Root);
         }
 
+        /// <summary>
+        /// Checks whether a tree with a single node can be instantiated
+        /// </summary>
         [Fact]
         public void CheckTreeWithSingleRootInstantiation()
         {
@@ -31,6 +30,9 @@ namespace TreesUnitTest
             Assert.NotNull(tree.Root);
         }
 
+        /// <summary>
+        /// Checks whether a tree with a left and right node can be instantiated
+        /// </summary>
         [Fact]
         public void CheckAddLeftAndRightChild()
         {
@@ -43,6 +45,9 @@ namespace TreesUnitTest
             Assert.True(tree.Root.Left != null && tree.Root.Right != null);
         }
 
+        /// <summary>
+        /// Checks whether a preorder traversal returns the correct array
+        /// </summary>
         [Fact]
         public void CheckPreorderTraversal()
         {
@@ -67,6 +72,9 @@ namespace TreesUnitTest
             Assert.Equal(expected, tree.TraversePreOrder());
         }
 
+        /// <summary>
+        /// Checks whether an inorder traversal returns the correct array
+        /// </summary>
         [Fact]
         public void CheckInorderTraversal()
         {
@@ -91,6 +99,9 @@ namespace TreesUnitTest
             Assert.Equal(expected, tree.TraverseInOrder());
         }
 
+        /// <summary>
+        /// Checks whether a postorder traversal returns the correct array
+        /// </summary>
         [Fact]
         public void CheckPostorderTraversal()
         {
@@ -115,6 +126,9 @@ namespace TreesUnitTest
             Assert.Equal(expected, tree.TraversePostOrder());
         }
 
+        /// <summary>
+        /// Checks whether a binary search tree can add a root node
+        /// </summary>
         [Fact]
         public void CheckBinarySearchTreeAddRoot()
         {
@@ -125,6 +139,9 @@ namespace TreesUnitTest
             Assert.NotNull(tree.Root);
         }
 
+        /// <summary>
+        /// Checks whether a binary search tree can add several nodes in the correct order
+        /// </summary>
         [Fact]
         public void CheckBinarySearchTreeAddSeveral()
         {
@@ -141,6 +158,10 @@ namespace TreesUnitTest
             Assert.Equal(expected, tree.TraverseInOrder());
         }
 
+        /// <summary>
+        /// Checks whether a binary search tree can see if tree contains a node
+        /// </summary>
+        /// <param name="test">Value of node to be checked</param>
         [Theory]
         [InlineData(11)]
         [InlineData(8)]
@@ -160,6 +181,9 @@ namespace TreesUnitTest
             Assert.True(tree.Contains(test));
         }
 
+        /// <summary>
+        /// Checks whether tree can find highest value
+        /// </summary>
         [Fact]
         public void CheckFindMaximumValue()
         {
