@@ -21,12 +21,12 @@ namespace Trees
         {
             list.Add(root.Value);
 
-            while (root.Left != null)
+            if (root.Left != null)
             {
                 TraversePreOrder(root.Left, list);
             }
 
-            while (root.Right != null)
+            if (root.Right != null)
             {
                 TraversePreOrder(root.Right, list);
             }
@@ -43,17 +43,15 @@ namespace Trees
 
         public void TraverseInOrder(Node root, List<int> list)
         {
-            while (root.Left != null)
+            if (root.Left != null)
             {
-                list.Add(root.Left.Value);
                 TraverseInOrder(root.Left, list);
             }
 
             list.Add(root.Value);
 
-            while (root.Right != null)
+            if (root.Right != null)
             {
-                list.Add(root.Right.Value);
                 TraverseInOrder(root.Right, list);
             }
         }
@@ -69,15 +67,13 @@ namespace Trees
 
         public void TraversePostOrder(Node root, List<int> list)
         {
-            while (root.Left != null)
+            if (root.Left != null)
             {
-                list.Add(root.Left.Value);
                 TraversePostOrder(root.Left, list);
             }
 
-            while (root.Right != null)
+            if (root.Right != null)
             {
-                list.Add(root.Right.Value);
                 TraversePostOrder(root.Right, list);
             }
 
