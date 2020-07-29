@@ -8,6 +8,10 @@ namespace Trees
     {
         public Node Root { get; set; }
 
+        /// <summary>
+        /// Performs preorder traversal of the tree
+        /// </summary>
+        /// <returns>Array with all values of nodes in the tree, in preorder</returns>
         public int[] TraversePreOrder()
         {
             List<int> values = new List<int>();
@@ -17,6 +21,11 @@ namespace Trees
             return values.ToArray();
         }
 
+        /// <summary>
+        /// Performs preorder traversal of the tree
+        /// </summary>
+        /// <param name="root">Current node being traversed</param>
+        /// <param name="list">List of nodes that have been traversed</param>
         public void TraversePreOrder(Node root, List<int> list)
         {
             list.Add(root.Value);
@@ -32,6 +41,10 @@ namespace Trees
             }
         }
 
+        /// <summary>
+        /// Performs inorder traversal of the tree
+        /// </summary>
+        /// <returns>Array with all values of nodes in the tree, in inorder</returns>
         public int[] TraverseInOrder()
         {
             List<int> values = new List<int>();
@@ -41,6 +54,11 @@ namespace Trees
             return values.ToArray();
         }
 
+        /// <summary>
+        /// Performs inorder traversal of the tree
+        /// </summary>
+        /// <param name="root">Current node being traversed</param>
+        /// <param name="list">List of nodes that have been traversed</param>
         public void TraverseInOrder(Node root, List<int> list)
         {
             if (root.Left != null)
@@ -56,6 +74,10 @@ namespace Trees
             }
         }
 
+        /// <summary>
+        /// Performs postorder traversal of the tree
+        /// </summary>
+        /// <returns>Array with all values of nodes in the tree, in postorder</returns>
         public int[] TraversePostOrder()
         {
             List<int> values = new List<int>();
@@ -65,6 +87,11 @@ namespace Trees
             return values.ToArray();
         }
 
+        /// <summary>
+        /// Performs postorder traversal of the tree
+        /// </summary>
+        /// <param name="root">Current node being traversed</param>
+        /// <param name="list">List of nodes that have been traversed</param>
         public void TraversePostOrder(Node root, List<int> list)
         {
             if (root.Left != null)
@@ -80,6 +107,10 @@ namespace Trees
             list.Add(root.Value);
         }
 
+        /// <summary>
+        /// Finds highest value in tree by traversing through the whole tree
+        /// </summary>
+        /// <returns>Highest value in tree</returns>
         public int FindMaximumValue()
         {
             if (Root == null) throw new NullReferenceException();
@@ -90,6 +121,12 @@ namespace Trees
             return FindMaximumValue(max, currentNode);
         }
 
+        /// <summary>
+        /// Finds highest value in tree by traversing through the whole tree
+        /// </summary>
+        /// <param name="max">Current maximum value found</param>
+        /// <param name="currentNode">Current node being traversed</param>
+        /// <returns>Highest value in tree</returns>
         public int FindMaximumValue(int max, Node currentNode)
         {
             if (currentNode.Value > max) max = currentNode.Value;

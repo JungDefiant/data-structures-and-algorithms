@@ -6,6 +6,11 @@ namespace Trees
 {
     public class BinarySearchTree : Tree
     {
+        
+        /// <summary>
+        /// Creates a node with the given value then adds it to the tree according to its value
+        /// </summary>
+        /// <param name="value">Value of the new node</param>
         public void Add(int value)
         {
             Node currentNode = null;
@@ -38,6 +43,11 @@ namespace Trees
             }
         }
 
+        /// <summary>
+        /// Adds node to tree based on its value
+        /// </summary>
+        /// <param name="newNode">Node to be added to the tree</param>
+        /// <param name="currentNode">Current node being traversed</param>
         public void Add(Node newNode, Node currentNode)
         {
             if (newNode.Value < currentNode.Value)
@@ -60,6 +70,11 @@ namespace Trees
             }
         }
 
+        /// <summary>
+        /// Checks if node of specific value is in tree
+        /// </summary>
+        /// <param name="value">Value to be checked</param>
+        /// <returns>Returns true or false, depending on if node with given value is found</returns>
         public bool Contains(int value)
         {
             Node currentNode = Root;
