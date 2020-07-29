@@ -8,29 +8,55 @@ namespace Trees
     {
         public void Add(int value)
         {
+            Node currentNode = null;
             Node newNode = new Node(value, null, null);
-            Node currentNode = Root;
 
-            while(currentNode != null)
+            if (Root == null)
             {
-                if(newNode.Value < currentNode.Value)
+                Root = newNode;
+                return;
+            }
+            else currentNode = Root;
+
+            if (newNode.Value < currentNode.Value)
+            {
+                if (currentNode.Left == null)
                 {
-                    if (currentNode.Left == null)
-                    {
-                        currentNode.Left = newNode;
-                        currentNode = null;
-                    }
-                    else currentNode = currentNode.Left;
+                    currentNode.Left = newNode;
+                    return;
                 }
-                else
+                else Add(newNode, currentNode.Left);
+            }
+            else
+            {
+                if (currentNode.Right == null)
                 {
-                    if (currentNode.Right == null)
-                    {
-                        currentNode.Right = newNode;
-                        currentNode = null;
-                    }
-                    else currentNode = currentNode.Right;
+                    currentNode.Right = newNode;
+                    return;
                 }
+                else Add(newNode, currentNode.Right);
+            }
+        }
+
+        public void Add(Node newNode, Node currentNode)
+        {
+            if (newNode.Value < currentNode.Value)
+            {
+                if (currentNode.Left == null)
+                {
+                    currentNode.Left = newNode;
+                    return;
+                }
+                else Add(newNode, currentNode.Left);
+            }
+            else
+            {
+                if (currentNode.Right == null)
+                {
+                    currentNode.Right = newNode;
+                    return;
+                }
+                else Add(newNode, currentNode.Right);
             }
         }
 

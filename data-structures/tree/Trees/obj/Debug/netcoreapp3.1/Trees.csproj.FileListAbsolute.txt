@@ -1,0 +1,13 @@
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\tree\Trees\bin\Debug\netcoreapp3.1\Trees.exe
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\tree\Trees\bin\Debug\netcoreapp3.1\Trees.deps.json
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\tree\Trees\bin\Debug\netcoreapp3.1\Trees.runtimeconfig.json
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\tree\Trees\bin\Debug\netcoreapp3.1\Trees.runtimeconfig.dev.json
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\tree\Trees\bin\Debug\netcoreapp3.1\Trees.dll
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\tree\Trees\bin\Debug\netcoreapp3.1\Trees.pdb
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\tree\Trees\obj\Debug\netcoreapp3.1\Trees.csprojAssemblyReference.cache
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\tree\Trees\obj\Debug\netcoreapp3.1\Trees.AssemblyInfoInputs.cache
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\tree\Trees\obj\Debug\netcoreapp3.1\Trees.AssemblyInfo.cs
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\tree\Trees\obj\Debug\netcoreapp3.1\Trees.csproj.CoreCompileInputs.cache
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\tree\Trees\obj\Debug\netcoreapp3.1\Trees.dll
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\tree\Trees\obj\Debug\netcoreapp3.1\Trees.pdb
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\tree\Trees\obj\Debug\netcoreapp3.1\Trees.genruntimeconfig.cache
