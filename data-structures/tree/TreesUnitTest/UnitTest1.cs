@@ -159,5 +159,27 @@ namespace TreesUnitTest
 
             Assert.True(tree.Contains(test));
         }
+
+        [Fact]
+        public void CheckFindMaximumValue()
+        {
+            Tree tree = new Tree();
+
+            tree.Root = new Node(1,
+                new Node(2,
+                    new Node(4,
+                        new Node(8, null, null), null),
+                    new Node(6,
+                        new Node(10, null, null),
+                        new Node(12, null, null))),
+                new Node(3,
+                    new Node(5,
+                        new Node(9, null, null),
+                        new Node(11, null, null)),
+                    new Node(7,
+                        new Node(13, null, null), null)));
+
+            Assert.Equal(13, tree.FindMaximumValue());
+        }
     }
 }

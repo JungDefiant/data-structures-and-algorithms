@@ -79,5 +79,32 @@ namespace Trees
 
             list.Add(root.Value);
         }
+
+        public int FindMaximumValue()
+        {
+            if (Root == null) throw new NullReferenceException();
+
+            Node currentNode = Root;
+            int max = Root.Value;
+
+            return FindMaximumValue(max, currentNode);
+        }
+
+        public int FindMaximumValue(int max, Node currentNode)
+        {
+            if (currentNode.Value > max) max = currentNode.Value;
+            
+            if(currentNode.Left != null)
+            {
+                max = FindMaximumValue(max, currentNode.Left);
+            }
+
+            if (currentNode.Right != null)
+            {
+                max = FindMaximumValue(max, currentNode.Right);
+            }
+
+            return max;
+        }
     }
 }
