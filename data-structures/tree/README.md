@@ -12,6 +12,7 @@ Unit tests for each functionality for the trees were created. After 'mapping out
 * TraversePostOrder() -> O(n) since the method looks through the entire tree to accumulate all nodes
 * Add() -> O(log n) since the method only traverses down the path matching the new node's value
 * Contains() -> O(log n) since the method only traverses down the path matching the new node's value
+* FindMaximumValue() -> O(n) since the method looks through the entire tree to find the highest value
 
 ## API
 Public methods include:
@@ -19,10 +20,9 @@ Public methods include:
 * Tree.TraversePreOrder() -> Performs preorder traversal of the tree then returns array of all node values as an array
 * Tree.TraverseInOrder() -> Performs inorder traversal of the tree then returns array of all node values as an array
 * Tree.TraversePostOrder() -> Performs postorder traversal of the tree then returns array of all node values as an array
+* Tree.FindMaximumValue() -> Searches through the tree and returns the highest value
 * BinarySearchTree.Add() -> Creates a new tree with the given value, then adds it to the tree in the proper place
 * BinarySearchTree.Contains() -> Searches through the tree for the first node with the given value
-
-## Whiteboard
 
 ## Link To Code
 [Link to Code](./Trees/)
