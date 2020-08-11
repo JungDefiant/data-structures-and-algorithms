@@ -1,0 +1,6 @@
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\insertion-sort\Project1\bin\Debug\Project1.exe.config
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\insertion-sort\Project1\bin\Debug\Project1.exe
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\insertion-sort\Project1\bin\Debug\Project1.pdb
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\insertion-sort\Project1\obj\Debug\Insertion-Sort.csproj.CoreCompileInputs.cache
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\insertion-sort\Project1\obj\Debug\Project1.exe
+C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\code-challenges\insertion-sort\Project1\obj\Debug\Project1.pdb
