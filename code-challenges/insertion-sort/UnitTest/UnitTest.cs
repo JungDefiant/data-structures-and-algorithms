@@ -15,6 +15,7 @@ namespace UnitTest
         [InlineData(new int[] { 3, 1213, 3, 5, 624, 6, 4, 6, 3 })]
         [InlineData(new int[] { 3, 6, 2, 246, 624, 2, 5, 6, 4 })]
         [InlineData(new int[] { 10, 9, 8, 7, 6, 5, 4, 3, 2, 1 })]
+        [InlineData(new int[] { 20, 18, 12, 8, 5, -2 })]
         public void CheckSuccessfulInsertionSort(int[] array)
         {
             InsertionSort.InsertionSort.SortIntArray(array);
