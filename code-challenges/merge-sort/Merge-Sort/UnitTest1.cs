@@ -6,10 +6,10 @@ namespace Merge_Sort
     public class UnitTest1
     {
         [Theory]
-        [InlineData(new int[] { 20, 18, 12, 8, 5, -2 })]
         [InlineData(new int[] { 5, 12, 7, 5, 5, 7 })]
         [InlineData(new int[] { 2, 3, 5, 7, 13, 11 })]
         [InlineData(new int[] { 8, 4, 23, 42, 16, 15 })]
+        [InlineData(new int[] { 20, 18, 12, 8, 5, -2 })]
         public void CheckMergeSort(int[] array)
         {
             MergeSort.DoMergeSort(array);
