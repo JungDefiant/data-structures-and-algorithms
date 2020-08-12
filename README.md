@@ -17,3 +17,5 @@ Challenge 401-13: [Multi-Bracket Validation](https://github.com/JungDefiant/data
 Challenge 401-15/16: [Binary Trees](https://github.com/JungDefiant/data-structures-and-algorithms/tree/master/data-structures/tree)
 
 Challenge 401-26: [Insertion Sort](https://github.com/JungDefiant/data-structures-and-algorithms/tree/master/code-challenges/insertion-sort)
+
+Challenge 401-27: [Merge Sort](https://github.com/JungDefiant/data-structures-and-algorithms/tree/master/code-challenges/merge-sort)
