@@ -11,7 +11,7 @@ Unit tests for the method were created. After 'mapping out' the desired outcomes
 - InsertionSort.CheckSortedIntArray --> Checks whether array is sorted
 
 ## Solution & Efficiency
-[Link To Blog](/BLOG.md)
+[Link To Blog](./BLOG.md)
 
 ## Link To Code
 [Link to Code](./Project1/)
