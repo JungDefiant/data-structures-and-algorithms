@@ -17,5 +17,5 @@ x
 X
 
 ## Link To Code
-[Link to Code](./Merge-Sort/)
+[Link to Code](./HashTable/)
 
