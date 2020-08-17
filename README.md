@@ -19,3 +19,5 @@ Challenge 401-15/16: [Binary Trees](https://github.com/JungDefiant/data-structur
 Challenge 401-26: [Insertion Sort](https://github.com/JungDefiant/data-structures-and-algorithms/tree/master/code-challenges/insertion-sort)
 
 Challenge 401-27: [Merge Sort](https://github.com/JungDefiant/data-structures-and-algorithms/tree/master/code-challenges/merge-sort)
+
+Challenge 401-30: [Hash Table](https://github.com/JungDefiant/data-structures-and-algorithms/tree/master/data-structures/hash-table)
