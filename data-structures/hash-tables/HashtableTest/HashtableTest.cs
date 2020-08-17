@@ -13,7 +13,7 @@ namespace HashtableTest
 
             table.Add("number", 3);
 
-            Assert.True(table.Get("number") == 3);
+            Assert.True(table.GetValue("number") == 3);
         }
 
         [Fact]
@@ -23,27 +23,27 @@ namespace HashtableTest
 
             table.Add("number", 3);
 
-            Assert.True(table.Get("number") == 3);
+            Assert.True(table.GetValue("number") == 3);
         }
 
         [Fact]
         public void CheckNullKey()
         {
-            Hashtable<int> table = new Hashtable<int>(3);
+            Hashtable<string> table = new Hashtable<string>(3);
 
-            Assert.Null(table.Get("number"));
+            Assert.Null(table.GetValue("number"));
         }
 
         [Fact]
         public void CheckHandleCollision()
         {
-            Hashtable<int> table = new Hashtable<int>(3);
+            Hashtable<string> table = new Hashtable<string>(3);
 
-            table.Add("number", 3);
-            table.Add("number", 5);
-            table.Add("number", 7);
+            table.Add("number", "3");
+            table.Add("number", "5");
+            table.Add("number", "7");
 
-            Assert.NotNull(table.Get("number"));
+            Assert.NotNull(table.GetValue("number"));
         }
 
         [Fact]
@@ -55,7 +55,7 @@ namespace HashtableTest
             table.Add("number", 5);
             table.Add("number", 7);
 
-            Assert.True(table.Get("number") == 3);
+            Assert.True(table.GetValue("number") == 3);
         }
 
         [Fact]
@@ -63,7 +63,7 @@ namespace HashtableTest
         {
             Hashtable<int> table = new Hashtable<int>(3);
 
-            Assert.True(table.Hash("number") == 3);
+            Assert.True(table.GetHash("number") == 3);
         }
     }
 }
