@@ -40,7 +40,22 @@ namespace HashTable
                 Map[index] = new LinkedList<Node<T>>();
             }
 
-            Map[index].AddLast(node);
+            // If the key already exists, replace its value with the new value
+            if (!Contains(key)) Map[index].AddLast(node);
+            else
+            {
+                var current = Map[index].First;
+                while (!(current is null))
+                {
+                    if (current.Value.Key == key)
+                    {
+                        current.Value.Value = value;
+                        return;
+                    }
+
+                    current = current.Next;
+                }
+            }
         }
 
         public T GetValue(string key)
