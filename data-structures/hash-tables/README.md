@@ -2,19 +2,21 @@
 This program creates a hashtable.
 
 ## Challenge
-This challenge is to create a C# class that creates a hashtable data structure.
+This challenge is to create a C# class that forms a hashtable data structure and handles operations for a hashtable.
 
 ## Approach
 Unit tests for the method were created. After 'mapping out' the desired outcomes through unit tests, each function was made.
 
-- MergeSort.DoMergeSort --> Separates an array into two halves, recursively merge sorts each array, then merges the remaining array
-- MergeSort.Merge --> Merges two arrays into another array
+- Hashtable.GetHash --> Returns an integer when given a key based on a hashing algorithm
+- Hashtable.Add --> Adds a new node with the given key and value to hashtable
+- Hashtable.GetValue --> Finds node with the given key and returns its value
+- Hashtable.Contains --> Finds node with given key and returns whether it has a node with that key
 
 ## Efficiency
-x
-
-## Solution
-X
+- Hashtable.GetHash --> O(1). This operation is only operate once on a given string.
+- Hashtable.Add --> O(n). At worst, this algorithm iterates through each node in a particular bucket.
+- Hashtable.GetValue --> O(n). At worst, this algorithm iterates through each node in a particular bucket.
+- Hashtable.Contains --> O(n). At worst, this algorithm iterates through each node in a particular bucket.
 
 ## Link To Code
 [Link to Code](./HashTable/)
