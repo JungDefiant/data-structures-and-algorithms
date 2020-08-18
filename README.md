@@ -21,3 +21,5 @@ Challenge 401-26: [Insertion Sort](https://github.com/JungDefiant/data-structure
 Challenge 401-27: [Merge Sort](https://github.com/JungDefiant/data-structures-and-algorithms/tree/master/code-challenges/merge-sort)
 
 Challenge 401-30: [Hash Table](https://github.com/JungDefiant/data-structures-and-algorithms/tree/master/data-structures/hash-table)
+
+Challenge 401-31: [Repeated Words](https://github.com/JungDefiant/data-structures-and-algorithms/tree/master/code-challenges/repeated-words)
