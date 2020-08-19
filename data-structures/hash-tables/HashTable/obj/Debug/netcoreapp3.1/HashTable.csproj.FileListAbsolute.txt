@@ -1,7 +1,6 @@
 C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\hash-tables\HashTable\bin\Debug\netcoreapp3.1\HashTable.deps.json
 C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\hash-tables\HashTable\bin\Debug\netcoreapp3.1\HashTable.dll
 C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\hash-tables\HashTable\bin\Debug\netcoreapp3.1\HashTable.pdb
-C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\hash-tables\HashTable\obj\Debug\netcoreapp3.1\HashTable.csprojAssemblyReference.cache
 C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\hash-tables\HashTable\obj\Debug\netcoreapp3.1\HashTable.AssemblyInfoInputs.cache
 C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\hash-tables\HashTable\obj\Debug\netcoreapp3.1\HashTable.AssemblyInfo.cs
 C:\Users\bjhab\codefellows\401\data-structures-and-algorithms\data-structures\hash-tables\HashTable\obj\Debug\netcoreapp3.1\HashTable.csproj.CoreCompileInputs.cache
